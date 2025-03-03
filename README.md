@@ -38,30 +38,43 @@ It gives us 4 Cases. </br>
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/user-attachments/assets/bec3e249-8e12-4fbf-8b91-c968693d057d" width="450">
+    <img src="https://github.com/user-attachments/assets/bec3e249-8e12-4fbf-8b91-c968693d057d" width="400">
   </kbd>
 </p>
 
 [//]: # (Case 2)
 <p align="center">
   <kbd>
-    <img src="https://github.com/user-attachments/assets/9e4664d0-6945-4c4e-9e81-b943f0172ca1" width="450">
+    <img src="https://github.com/user-attachments/assets/9e4664d0-6945-4c4e-9e81-b943f0172ca1" width="400">
   </kbd>
 </p>
 
 [//]: # (Case 3)
 <p align="center">
-	<kbd>
-    <img src="https://github.com/user-attachments/assets/916c3157-20dc-47cd-8302-92b9f7aa802b" width="450">
-	</kbd>
+  <kbd>
+    <img src="https://github.com/user-attachments/assets/916c3157-20dc-47cd-8302-92b9f7aa802b" width="400">
+  </kbd>
 </p>
 
 [//]: # (Case 4)
 <p align="center">
-	<kbd>
-		<img src="https://github.com/user-attachments/assets/d711fb9f-3727-401a-94e9-60d6c579e47a" width="450">
-	</kbd>
+  <kbd>
+    <img src="https://github.com/user-attachments/assets/d711fb9f-3727-401a-94e9-60d6c579e47a" width="400">
+  </kbd>
 </p>
+
+</br>
+I've build the controlling cabinet for this project:
+</br>
+
+<p align="center">	
+<img src="https://github.com/user-attachments/assets/e6ea7ee5-92b5-42ea-99a7-b5c46c74f57b" width="700">	
+</p>
+</br>
+
+Cabinet Wiring Diagram you may find in "Diagram" folder.
+
+
 
 
 
