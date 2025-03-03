@@ -33,7 +33,7 @@ SET2 = M2, M4, M6, M8
 So those sets could be handled according to logic algorythm. The time and temperature are the key: </br> </br> </br>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/102f6b19-156a-46d6-9146-da6d2a48c8d0" width="450">
+<img src="https://github.com/user-attachments/assets/102f6b19-156a-46d6-9146-da6d2a48c8d0" width="400">
 </p>
 
 It gives us 4 logical Cases: </br> </br>
@@ -90,7 +90,7 @@ Clock and Timer settings:
 </br>
 </br>
 <p align="center">	
-<img src="https://github.com/user-attachments/assets/c7d4ac1d-9884-41ec-8802-7245fe2b777f" width="500">	
+<img src="https://github.com/user-attachments/assets/c7d4ac1d-9884-41ec-8802-7245fe2b777f" width="550">	
 </p>
 
 
