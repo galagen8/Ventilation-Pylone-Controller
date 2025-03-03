@@ -18,7 +18,7 @@ Temperature sensor must be mounted inside building at height approximately 6 met
 
 </br>
 <h4>HOW DOES IT WORKS:</h4>
-I've made 2 SETs of fans: SET1 and SET2:
+I've made 2 SETs of fans: SET1 and SET2:</br>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/be27852d-3f1b-4152-9c08-206e593e0a55" width="300">
